@@ -1,0 +1,17 @@
+{
+  "name": "apigplant",
+  "version": "1.0.0",
+  "description": "Servicio web para la base de datos del proyecto GPlant",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
